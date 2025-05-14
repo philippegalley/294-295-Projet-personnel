@@ -1,4 +1,4 @@
-# 294-295-[Le titre de votre projet]
+# 294 / 295 - [Le titre de votre projet]
 
 ## Introduction
 
